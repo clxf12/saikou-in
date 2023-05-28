@@ -12,7 +12,7 @@
     <string name="telegram">https://telegram.me/saikou_app</string>
     <string name="github">https://github.com/saikou-app/saikou</string>
 
-    <string name="home">Home</string>
+    <string name="home">Beranda</string>
     <string name="anime">Anime</string>
     <string name="browse_anime">Jelajahi Anime</string>
     <string name="manga">Manga</string>
@@ -143,7 +143,7 @@
     <string name="about">Tentang</string>
     <string name="desc">"    Saikou dibuat berdasarkan keanggunan yang sederhana namun canggih. Ini adalah satu-satunya klien Anilist, yang juga memungkinkan Anda streaming-unduh Anime &amp; Manga.\nSaikou secara harfiah berarti \"terbaik\" dalam bahasa Jepang. Nah, kami ingin mengatakan ini adalah aplikasi sumber terbuka terbaik untuk anime dan manga di Android, bagaimana menurut Anda?"</string>
     <string name="devs">Developers</string>
-    <string name="disclaimer">Disclaimer</string>
+    <string name="disclaimer">Peringatan</string>
     <string name="full_disclaimer">
          - Saikou hanya mengambil link dari berbagai website dan memudahkan pengguna untuk menemukan anime dan manga.
         \n\n - Saikou atau salah satu pengembang/stafnya tidak menyimpan konten apa pun yang ditemukan di dalam Saikou. Setiap dan semua informasi gambar dan anime/manga yang ditemukan di aplikasi diambil dari berbagai API publik (AniList, MyAnimeList, Kitsu).
