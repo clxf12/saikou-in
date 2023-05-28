@@ -278,7 +278,7 @@
     <string name="sort_by_score">Urutkan berdasarkan Skor</string>
     <string name="over_scroll">Over Scroll ke Bab Berikutnya/Sebelumnya</string>
     <string name="volume_buttons">Ubah halaman dengan Tombol Volume</string>
-    <string name="list_private">Pribadi</string>
+    <string name="list_private">Private</string>
     <string name="wrap_images">Wrap gambar</string>
     <string name="wrap_images_info">Sebagian besar berguna untuk perangkat yang lebih besar, menghilangkan ruang di antara gambar, jika ada.</string>
     <string name="reload">Mengulang</string>
