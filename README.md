@@ -81,7 +81,7 @@ Semua kontribusi diterima, mulai dari kode hingga dokumentasi hingga grafik hing
 
 https://telegram.me/saikou_app
 
-### VISIT FOR MORE INFORMATION:-
+### KUNJUNGI UNTUK INFORMASI LEBIH LANJUT:-
 
 https://saikou.me/
 
