@@ -37,24 +37,24 @@ Anime Stream dibuat berdasarkan keanggunan yang sederhana namun canggih. Ini ada
 
 * **Sumber Anime yang tersedia:-**
 
-|                            SITE                            |   STATUS    | DOWNLOADS |
+|                            SITUS                           |   STATUS    | MENGUNDUH |
 |:----------------------------------------------------------:|:-----------:|:---------:|
-|            [Samehadaku](https://samehadaku.cam)            |   WORKING   |   SOME    |
-|             [OtakuDesu](https://otakudesu.lol)             |   WORKING   |   SOME    |
-|                  [Zoro](https://zoro.to)                   |   WORKING   |    NO     |
-|            [Kuramanime](https://kuramanime.net)            |   WORKING   |    YES    |
-|              [OpLoverz](https://oploverz.top)              |   WORKING   |    YES    |
+|            [Samehadaku](https://samehadaku.cam)            |   BEKERJA   | BEBERAPA  |
+|             [OtakuDesu](https://otakudesu.lol)             |   BEKERJA   | BEBERAPA  |
+|                  [Zoro](https://zoro.to)                   |   BEKERJA   |   TIDAK   |
+|            [Kuramanime](https://kuramanime.net)            |   BEKERJA   |    IYA    |
+|              [OpLoverz](https://oploverz.top)              |   BEKERJA   |    IYA    |
 
 
 * **Sumber Manga yang tersedia:-**
 
-|                    SITE                    |   STATUS    |
+|                    SITUS                   |   STATUS    |
 |:------------------------------------------:|:-----------:|
-|        [Komiku](https://komiku.id)         |   WORKING   |
-|    [Komikcast](https://komikcast.site)     |   WORKING   |
-|        [Kiryuu](https://kiryuu.co)         |   WORKING   |
-|      [MangaDex](https://mangadex.org)      |   WORKING   |
-|    [WestManga](https://westmanga.info)     |   WORKING   |
+|        [Komiku](https://komiku.id)         |   BEKERJA   |
+|    [Komikcast](https://komikcast.site)     |   BEKERJA   |
+|        [Kiryuu](https://kiryuu.co)         |   BEKERJA   |
+|      [MangaDex](https://mangadex.org)      |   BEKERJA   |
+|    [WestManga](https://westmanga.info)     |   BEKERJA   |
 
 ## Hal-hal yang Direncanakan
 
@@ -86,7 +86,7 @@ https://telegram.me/saikou_app
 https://saikou.me/
 
 
-## PENYANGKALAN
+## CATATAN PENTING
 
 * Saikou hanya mengambil tautan dari berbagai situs web dan memudahkan pengguna dalam menemukan anime dan manga.
 
@@ -100,6 +100,6 @@ https://saikou.me/
 
 * Jika terjadi masalah pelanggaran internet, harap hubungi situs web sumber. Pengembang tidak mengasumsikan tanggung jawab hukum apa pun.
 
-## License
+## Lisensi
 
-Saikou is licensed under the [GNU General Public License v3.0](LICENSE.md)
+Saikou dilisensikan oleh [GNU General Public License v3.0](LICENSE.md)
