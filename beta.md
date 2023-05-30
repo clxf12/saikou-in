@@ -12,7 +12,7 @@
 
 - Temukan semua acara menggunakan daftar semua anime yang sedang tren, populer, dan sedang berlangsung secara menyeluruh dan sering diperbarui berdasarkan skor.
 
-- Lihat detail ekstensif tentang acara anime, film, dan judul manga. Ini juga menampilkan kemampuan untuk menghitung mundur ke episode berikutnya dari anime yang ditayangkan. (Didukung oleh AniList & MyAnimeList)
+- Lihat detail ekstensif tentang acara anime, film, dan judul manga. Ini juga menampilkan kemampuan untuk menghitung mundur ke episode berikutnya dari anime yang ditayangkan. (Didukung oleh AniList & MAL)
 
 - Dapatkan pemberitahuan saat Episode/Chapter baru dirilis!
 
