@@ -3,7 +3,7 @@
     <string name="repo">saikou-app/saikou</string>
 
     <string name="app_name">Saikou IN</string>
-    <string name="slogan">The Best Anime &amp; Manga app for Android.</string>
+    <string name="slogan">Aplikasi Terbaik Anime &amp; manga untuk Android.</string>
 
     <string name="login">Login</string>
     <string name="logout">Logout</string>
@@ -12,336 +12,336 @@
     <string name="telegram">https://telegram.me/saikou_app</string>
     <string name="github">https://github.com/saikou-app/saikou</string>
 
-    <string name="home">Home</string>
+    <string name="home">Beranda</string>
     <string name="anime">Anime</string>
-    <string name="browse_anime">Browse Anime</string>
+    <string name="browse_anime">Jelajahi Anime</string>
     <string name="manga">Manga</string>
-    <string name="browse_manga">Browse Manga</string>
+    <string name="browse_manga">Jelajahi Manga</string>
     <string name="info">Info</string>
-    <string name="watch">Watch</string>
-    <string name="read">Read</string>
+    <string name="watch">menonton</string>
+    <string name="read">membaca</string>
 
-    <string name="anime_list">Anime List</string>
-    <string name="manga_list">Manga List</string>
+    <string name="anime_list">Daftar Anime</string>
+    <string name="manga_list">Daftar Manga</string>
 
     <string name="sad">X(</string>
     <string name="oh">:o</string>
     <string name="colon">" : "</string>
 
-    <string name="no_internet">No Internet Connection</string>
+    <string name="no_internet">Tidak ada koneksi internet</string>
     <string name="refresh">Refresh</string>
 
-    <string name="search">Search</string>
-    <string name="search_results">Search Results</string>
-    <string name="sort_by">Sort By</string>
+    <string name="search">Pencarian</string>
+    <string name="search_results">Hasil Pencarian</string>
+    <string name="sort_by">Sortir dengan</string>
     <string name="genre">Genre</string>
-    <string name="top_score">Top Score</string>
-    <string name="updated">Recently Updated</string>
-    <string name="trending_anime">Trending Anime</string>
-    <string name="popular_anime">Popular Anime</string>
-    <string name="trending_manga">Trending Manga</string>
-    <string name="trending_novel">Trending Novel</string>
-    <string name="popular_manga">Popular Manga</string>
+    <string name="top_score">Skor Tertinggi</string>
+    <string name="updated">Baru saja Diperbarui</string>
+    <string name="trending_anime">Anime Trending</string>
+    <string name="popular_anime">Anime Populer</string>
+    <string name="trending_manga">Manga Trending</string>
+    <string name="trending_novel">Novel Trending</string>
+    <string name="popular_manga">Manga Populer</string>
 
     <string name="username">Username</string>
-    <string name="chapters_read">"Chapters Read "</string>
-    <string name="episodes_watched">"Episodes Watched "</string>
-    <string name="continue_reading">Continue Reading</string>
-    <string name="continue_watching">Continue Watching</string>
-    <string name="recommended">Recommended</string>
+    <string name="chapters_read">"Chapter Dibaca "</string>
+    <string name="episodes_watched">"Episode Ditonton "</string>
+    <string name="continue_reading">Lanjut Membaca</string>
+    <string name="continue_watching">Lanjut Menonton</string>
+    <string name="recommended">Rekomendasi</string>
 
-    <string name="get_recommendations">Watch/Read some Anime or Manga to get Recommendations</string>
-    <string name="empty">All caught up, when New?</string>
-    <string name="action_settings">Settings</string>
+    <string name="get_recommendations">Tonton/Baca beberapa Anime atau Manga untuk mendapatkan Rekomendasi</string>
+    <string name="empty">Semua telah dilihat, Kapan yang baru?</string>
+    <string name="action_settings">Pengaturan</string>
 
-    <string name="add">Add to List</string>
+    <string name="add">Tambahkan ke Daftar</string>
     <string name="list_editor">List Editor</string>
-    <string name="add_fav">Add to Favourites</string>
-    <string name="notifications">Notifications</string>
+    <string name="add_fav">Tambahkan ke Favorit</string>
+    <string name="notifications">Notifikasi</string>
     <string name="status">STATUS</string>
     <string-array name="status">
-        <item>PLANNING</item>
-        <item>CURRENT</item>
-        <item>COMPLETED</item>
-        <item>REPEATING</item>
-        <item>PAUSED</item>
+        <item>RENCANA</item>
+        <item>SAAT INI</item>
+        <item>SELESAI</item>
+        <item>MENGULANG</item>
+        <item>DIJEDA</item>
         <item>DROPPED</item>
     </string-array>
     <string name="progress">PROGRESS</string>
-    <string name="score">SCORE</string>
+    <string name="score">SKOR</string>
     <string name="score_suffix">" / 10"</string>
-    <string name="started_at">STARTED AT</string>
-    <string name="completed_at">COMPLETED AT</string>
-    <string name="save">Save</string>
-    <string name="delete">Delete</string>
+    <string name="started_at">MULAI PADA</string>
+    <string name="completed_at">SELESAI PADA</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
 
-    <string name="name">Name</string>
-    <string name="name_romaji">Name Romaji</string>
-    <string name="mean_score">Mean Score</string>
+    <string name="name">Nama</string>
+    <string name="name_romaji">Nama Romaji</string>
+    <string name="mean_score">Rata-Rata Skor</string>
     <string name="format">Format</string>
     <string name="status_title">Status</string>
-    <string name="total_eps">Total Episodes</string>
-    <string name="total_chaps">Total Chapters</string>
-    <string name="ep_duration">Average Duration</string>
+    <string name="total_eps">Total Episode</string>
+    <string name="total_chaps">Total Chapter</string>
+    <string name="ep_duration">Durasi Rata-Rata</string>
     <string name="min">" min"</string>
     <string name="season">Season</string>
-    <string name="start_date">Start Date</string>
-    <string name="end_date">End Date</string>
-    <string name="source">Source</string>
+    <string name="start_date">Mulai tanggal</string>
+    <string name="end_date">Berakhir Tanggal</string>
+    <string name="source">Sumber</string>
     <string name="main_studio">Studio</string>
-    <string name="genres">Genres</string>
+    <string name="genres">Genre</string>
     <string name="description">Synopsis</string>
-    <string name="characters">Characters</string>
-    <string name="relations">Relations</string>
+    <string name="characters">Karakter</string>
+    <string name="relations">Yang Berhubungan</string>
 
     <string name="roles">Roles</string>
-    <string name="details">Details</string>
+    <string name="details">Detail</string>
 
-    <string name="play_yt">Play on Youtube</string>
+    <string name="play_yt">Putar dengan Youtube</string>
     <string name="eps">Episodes</string>
     <string name="ep">Episode</string>
     <string name="chaps">Chapters</string>
     <string name="chap">Chapter</string>
-    <string name="wrong"><u>Wrong Title?</u></string>
+    <string name="wrong"><u>Salah Judul?</u></string>
     <string name="source_not_found">
-        Couldn\'t find anything X( \n
-        Try another source.
+        Tidak dapat menemukan apa pun X( \n
+        Coba sumber lain.
     </string>
-    <string name="not_supported">%1$s is not supported yet!</string>
-    <string name="server_selector">Select Server</string>
-    <string name="auto_select_server">Auto Selecting Server</string>
-    <string name="make_default">Make Default</string>
-    <string name="filler">Filler</string>
-    <string name="adult">Adult</string>
-    <string name="list_only">List Only</string>
+    <string name="not_supported">%1$s belum didukung!</string>
+    <string name="server_selector">Pilih Server</string>
+    <string name="auto_select_server">Otomatis Memilih Server</string>
+    <string name="make_default">Jadikan Default</string>
+    <string name="filler">Pengisi</string>
+    <string name="adult">Dewasa</string>
+    <string name="list_only">Daftar Saja</string>
     <string name="tag">Tag</string>
     <string name="tags">Tags</string>
-    <string name="synonyms">Synonyms</string>
+    <string name="synonyms">Sinonim</string>
     <string name="trailer">Trailer</string>
     <string name="opening">Opening</string>
     <string name="ending">Ending</string>
-    <string name="prequel">Prequel</string>
-    <string name="sequel">Sequel</string>
+    <string name="prequel">Prekuel</string>
+    <string name="sequel">Sekuel</string>
 
-    <string name="anilist_settings">Anilist Settings</string>
+    <string name="anilist_settings">Pengaturan anilist</string>
     <string name="downloads">Downloads</string>
-    <string name="settings">Settings</string>
-    <string name="player_settings">Player Settings</string>
-    <string name="recentlyListOnly">Only show My Shows in Recently Updated</string>
-    <string name="download_manager_select">Download Manager</string>
-    <string name="downloadInSd">Download in SD card</string>
-    <string name="noSdFound">No SD card was Found.</string>
-    <string name="reader_settings">Reader Settings</string>
-    <string name="default_source">Default Source</string>
-    <string name="show_yt">Show Youtube Link</string>
-    <string name="default_ep_view">Default Episode Layout</string>
-    <string name="default_chp_view">Default Chapter Layout</string>
-    <string name="ui">User Interface</string>
-    <string name="common">Common</string>
-    <string name="theme">Theme</string>
-    <string name="ui_settings">UI Settings</string>
-    <string name="about">About</string>
-    <string name="desc">"    Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client, which also lets you stream-download Anime &amp; Manga.\nSaikou literally means the \"best\" in japanese. Well, we would like to say this is the best open source app for anime and manga on Android, what would you say?"</string>
+    <string name="settings">Pengaturan</string>
+    <string name="player_settings">Pengaturan Pemutaran</string>
+    <string name="recentlyListOnly">Hanya tampilkan Acara saya di Baru saja Diperbarui</string>
+    <string name="download_manager_select">Manajer unduhan</string>
+    <string name="downloadInSd">Unduh di kartu SD</string>
+    <string name="noSdFound">Tidak ada kartu SD Ditemukan.</string>
+    <string name="reader_settings">Pengaturan Pembaca</string>
+    <string name="default_source">Sumber Default</string>
+    <string name="show_yt">Tampilkan Tautan Youtube</string>
+    <string name="default_ep_view">Tata Letak Episode Default</string>
+    <string name="default_chp_view">Tata Letak Chapter Default</string>
+    <string name="ui">Antarmuka pengguna</string>
+    <string name="common">Umum</string>
+    <string name="theme">Tema</string>
+    <string name="ui_settings">Pengaturan UI</string>
+    <string name="about">Tentang</string>
+    <string name="desc">"    Saikou dibuat berdasarkan keanggunan yang sederhana namun canggih. Ini adalah satu-satunya klien Anilist, yang juga memungkinkan Anda streaming-unduh Anime &amp; Manga.\nSaikou secara harfiah berarti \"terbaik\" dalam bahasa Jepang. Nah, kami ingin mengatakan ini adalah aplikasi sumber terbuka terbaik untuk anime dan manga di Android, bagaimana menurut Anda?"</string>
     <string name="devs">Developers</string>
-    <string name="disclaimer">Disclaimer</string>
+    <string name="disclaimer">Peringatan</string>
     <string name="full_disclaimer">
-         - Saikou only scrapes links from various websites and makes it easier for users to find anime and manga.
-        \n\n - Saikou or any of its developer/staff doesn\'t host any of the contents found inside Saikou. Any and all images and anime/manga information found in the app are taken from various public APIs (AniList, MyAnimeList, Kitsu).
-        \n\n - Furthermore, all of the anime/manga links found in Saikou are taken from various 3rd party anime hosting websites.
-        \n\n - Saikou or it\'s owners aren\'t liable for any misuse of any of the contents found inside or outside of the app and cannot be held accountable for the distribution of any of the contents found inside the app.
-        \n\n - By using Saikou, you comply to the fact that the developer of the app is not responsible for any of the contents found in the app; nonetheless they may or may not be from their legitimate sources.
-        \n\n - If the internet infringement issues are involved, please contact the source website. The developer does not assume any legal responsibility.
+         - Saikou hanya mengambil link dari berbagai website dan memudahkan pengguna untuk menemukan anime dan manga.
+        \n\n - Saikou atau salah satu pengembang/stafnya tidak menyimpan konten apa pun yang ditemukan di dalam Saikou. Setiap dan semua informasi gambar dan anime/manga yang ditemukan di aplikasi diambil dari berbagai API publik (AniList, MyAnimeList, Kitsu).
+        \n\n - Selain itu, semua link anime/manga yang terdapat di Saikou diambil dari berbagai situs hosting anime pihak ke-3.
+        \n\n - Saikou atau pemiliknya tidak bertanggung jawab atas penyalahgunaan konten apa pun yang ditemukan di dalam atau di luar aplikasi dan tidak dapat dimintai pertanggungjawaban atas distribusi konten apa pun yang ditemukan di dalam aplikasi.
+        \n\n - Dengan menggunakan Saikou, Anda mematuhi fakta bahwa pengembang aplikasi tidak bertanggung jawab atas konten apa pun yang ditemukan di aplikasi; meskipun demikian mereka mungkin atau mungkin tidak berasal dari sumber yang sah.
+        \n\n - Jika masalah pelanggaran internet terlibat, silakan hubungi situs web sumber. Pengembang tidak memikul tanggung jawab hukum apa pun.
     </string>
-    <string name="version_current">Version %1$s</string>
+    <string name="version_current">Versi %1$s</string>
     <string-array name="tips">
-        <item>You can Long Click an episode/chapter to Mark it as Read.</item>
-        <item>Long Clicking Shows can directly open List Editor.</item>
-        <item>There are few more easter eggs hidden in the App.</item>
-        <item>Challenge: Go to the very bottom of the Popular Anime &amp; Manga</item>
-        <item>Try Long Clicking the Show\'s Title.</item>
-        <item>Damn, why are you wasting your Time?</item>
-        <item>You can Long Click to copy this Message.</item>
-        <item>OMG LOOK! YOU FOUND AN EASTER EGG!?</item>
-        <item>You know who else likes this Animation?</item>
-        <item>MAL support? bruh.</item>
-        <item>Novels? more like NO vels.</item>
-        <item>Long Click the logo to check for App Update</item>
+        <item>Anda dapat Klik Lama pada sebuah episode/bab untuk Menandai sebagai Sudah Dibaca.</item>
+        <item>Klik lama pada acara dapat langsung membuka List Editor.</item>
+        <item>Ada beberapa easter eggs yang disembunyikan di Aplikasi.</item>
+        <item>Tantangan: Pergi ke bagian paling bawah dari Anime Populer &amp; Manga</item>
+        <item>Cobalah klik lama pada judul show.</item>
+        <item>Sialan, mengapa Anda membuang-buang waktu Anda?</item>
+        <item>Kamu bisa klik dan tahan untuk copy Pesan ini.</item>
+        <item>OMG LIHAT! ANDA MENEMUKAN EASTER EGG!?</item>
+        <item>Anda tahu siapa lagi yang suka Animasi ini?</item>
+        <item>dukungan MAL? jangan Badut.</item>
+        <item>Novels? lebih seperti NO vels.</item>
+        <item>Klik Lama logo untuk memeriksa Pembaruan Aplikasi</item>
     </string-array>
 
     <string name="video">Video</string>
-    <string name="video_info">Show Video Info</string>
-    <string name="source_info">Show Source Name</string>
-    <string name="video_info_info">Shows what the Resolution of the current video playing, useful for <b>\"Multi Quality\"</b> servers.</string>
-    <string name="default_quality">Auto Quality Selection</string>
-    <string name="height">Height</string>
-    <string name="width">Width</string>
-    <string name="default_quality_info">Automatically uses the closest quality provided by default, ONLY applied for \"Multi Quality\" Servers. Auto changes upon playing a video.</string>
-    <string name="default_playback_speed">Default Playback Speed : %1$s</string>
+    <string name="video_info">Tampilkan Info Video</string>
+    <string name="source_info">Tampilkan Nama Sumber</string>
+    <string name="video_info_info">Menampilkan Resolusi dari pemutaran video saat ini, berguna untuk server <b>\"Multi Kualitas\"</b>.</string>
+    <string name="default_quality">Pemilihan Kualitas Otomatis</string>
+    <string name="height">Tinggi</string>
+    <string name="width">Lebar</string>
+    <string name="default_quality_info">Secara otomatis menggunakan kualitas terdekat yang disediakan secara default, HANYA diterapkan untuk Server \"Multi Kualitas\". Perubahan otomatis saat memutar video.</string>
+    <string name="default_playback_speed">Kecepatan Pemutaran Default : %1$s</string>
     <string name="cursed_speeds">Cursed Speeds</string>
-    <string name="resize_mode_button">Default Resize Mode</string>
-    <string name="subtitles">Subtitles</string>
-    <string name="subtitle_toggle">Subtitles</string>
-    <string name="primary_sub_color_select">Subtitle Color</string>
-    <string name="secondary_sub_color_select">Subtitle Outline Color</string>
-    <string name="secondary_sub_outline_type_select">Subtitle Outline Type</string>
-    <string name="sub_background_color_select">Subtitle Background Color</string>
-    <string name="sub_window_color_select">Subtitle Window Color</string>
-    <string name="sub_window_color_info">"The subtitle window is the part left and right from them. (where the background isn't)"</string>
-    <string name="sub_color_info"><b>Note:</b> Changing Subtitle formatting only works with Soft-Subbed Sources such as Zoro!</string>
-    <string name="sub_font_select">Subtitle Font</string>
-    <string name="subtitle_font_size">Subtitle Size</string>
+    <string name="resize_mode_button">Mode Ubah Ukuran Default</string>
+    <string name="subtitles">Subtitle</string>
+    <string name="subtitle_toggle">Subtitle</string>
+    <string name="primary_sub_color_select">Warna Subtitle</string>
+    <string name="secondary_sub_color_select">Warna Outline Subtitle</string>
+    <string name="secondary_sub_outline_type_select">Jenis Outline Subtitle</string>
+    <string name="sub_background_color_select">Warna Latar Belakang Subtitle</string>
+    <string name="sub_window_color_select">Warna Jendela Subtitle</string>
+    <string name="sub_window_color_info">"Jendela subtitle adalah bagian kiri dan kanan dari mereka. (di mana latar belakang tidak)"</string>
+    <string name="sub_color_info"><b>Catatan:</b> Mengubah pemformatan Teks Layar hanya berfungsi dengan Sumber Subtitel Lunak seperti Zoro!</string>
+    <string name="sub_font_select">Huruf Subtitle</string>
+    <string name="subtitle_font_size">Ukuran Subtitle</string>
 
-    <string name="auto">Auto</string>
-    <string name="auto_play_next_episode">Autoplay Next Episode</string>
-    <string name="auto_play_next_episode_info">Automatically disables if there is no interaction with player after 1 hour.</string>
-    <string name="auto_skip_fillers">Auto Skip Fillers</string>
-    <string name="auto_skip_fillers_info">Skips filler episodes when going to next episode.</string>
+    <string name="auto">Otomatis</string>
+    <string name="auto_play_next_episode">Putar Otomatis Episode Berikutnya</string>
+    <string name="auto_play_next_episode_info">Nonaktifkan secara otomatis jika tidak ada interaksi dengan pemutar setelah 1 jam.</string>
+    <string name="auto_skip_fillers">Otomatis Skip Fillers</string>
+    <string name="auto_skip_fillers_info">Melewatkan episode filler saat melanjutkan ke episode berikutnya.</string>
 
-    <string name="update_progress">Update Progress</string>
-    <string name="ask_update_progress_anime">Ask for each Anime \"Individually\"</string>
-    <string name="ask_update_progress_manga">Ask for each Manga \"Individually\"</string>
-    <string name="ask_update_progress_info_ep">Turning off will always automatically update progress when the episode is watched.</string>
-    <string name="ask_update_progress_info_chap">Turning off will always automatically update progress when the chapter is read.</string>
-    <string name="ask_update_progress_hentai">Update Progress for Hentai</string>
-    <string name="ask_update_progress_doujin">Update Progress for Doujins</string>
+    <string name="update_progress">memperbarui progres</string>
+    <string name="ask_update_progress_anime">Minta pada setiap Anime \"Individual\"</string>
+    <string name="ask_update_progress_manga">Minta pada setiap Manga \"Individual\"</string>
+    <string name="ask_update_progress_info_ep">Mematikan akan secara otomatis memperbarui progres ketika episode ini ditonton.</string>
+    <string name="ask_update_progress_info_chap">Mematikan akan secara otomatis memperbarui progres ketika chapter ini dibaca.</string>
+    <string name="ask_update_progress_hentai">Memperbarui Progres untuk Hentai</string>
+    <string name="ask_update_progress_doujin">Memperbarui Progres untuk Doujins</string>
     <string name="very_bold">very bold of you sar</string>
-    <string name="watch_complete_percentage">Watch Update Percentage</string>
-    <string name="watch_complete_percentage_info">The percentage at which your Anilist progress should be updated after watching an episode. \nThis also sets the \% for when to preload links for the next episode.</string>
+    <string name="watch_complete_percentage">Memperbarui persentase Ditonton</string>
+    <string name="watch_complete_percentage_info">Persentase progres Anilist Anda harus diperbarui setelah menonton sebuah episode. \nIni juga menetapkan \% waktu pramuat tautan untuk episode berikutnya.</string>
 
-    <string name="behaviour">Behaviour</string>
-    <string name="always_continue">Always Continue from where you left off</string>
-    <string name="pause_video_focus">Pause when not in Focus</string>
-    <string name="gestures">Volume &amp; Brightness Gestures</string>
+    <string name="behaviour">Tindakan</string>
+    <string name="always_continue">Selalu Lanjutkan dari tempat Anda tinggalkan</string>
+    <string name="pause_video_focus">Jeda saat tidak dalam Fokus</string>
+    <string name="gestures">Gerakan Volume &amp; Kecerahan</string>
     <string name="double_tap">Double tap to Seek</string>
-    <string name="double_tap_info">Turning off will show fast forward &amp; rewind buttons</string>
+    <string name="double_tap_info">Mematikan akan menampilkan tombol maju &amp; mundur</string>
     <string name="seek_time">Seek Time</string>
-    <string name="seek_time_info">Amount of time in seconds for fast forward &amp; rewind.</string>
+    <string name="seek_time_info">Jumlah waktu dalam detik untuk maju cepat &amp; mundur.</string>
     <string name="skip_time">Skip Time</string>
     <string name="skip_time_info">Setting to 0, hides the Skip Button.</string>
     <string name="show_cast_button">Show Cast Button</string>
     <string name="show_cast_button_info">Requires \"Web Video Caster\" app to cast.</string>
     <string name="picture_in_picture">Picture in Picture</string>
-    <string name="always_minimize">Always Minimize</string>
+    <string name="always_minimize">Selalu Minimize</string>
     <string name="always_minimize_info">Requires PiP to be enabled, makes the player behave like Youtube Player but better.\nAlso hides the PiP button.</string>
 
     <string name="app">App</string>
-    <string name="immersive_mode">Hide Status Bar</string>
-    <string name="immersive_mode_info">Requires App restart to fully apply.</string>
-    <string name="home_layout_show">Show/Hide Layouts on Home</string>
+    <string name="immersive_mode">Sembunyikan Status Bar</string>
+    <string name="immersive_mode_info">Aplikasi Harus dimulai ulang untuk menerapkan sepenuhnya.</string>
+    <string name="home_layout_show">Tampilkan/Sembunyikan Tata Letak di Beranda</string>
     <string-array name="home_layouts">
-        <item>Continue Watching</item>
-        <item>Favourite Anime</item>
-        <item>Planned Anime</item>
-        <item>Continue Reading</item>
-        <item>Favourite Manga</item>
-        <item>Planned Manga</item>
-        <item>Recommended</item>
+        <item>Lanjutkan Menonton</item>
+        <item>Anime Favorit</item>
+        <item>Anime yang direncanakan</item>
+        <item>Lanjut membaca</item>
+        <item>Manga Favorit</item>
+        <item>Manga yang direncanakan</item>
+        <item>Rekomendasi</item>
     </string-array>
 
-    <string name="startUpTab">Default Start Up Tab</string>
-    <string name="small_view">Small View in Trending Shows</string>
-    <string name="animations">Animations</string>
-    <string name="banner_animations">Banner Animations</string>
-    <string name="layout_animations">Layout Animations</string>
+    <string name="startUpTab">Tab Memulai Default</string>
+    <string name="small_view">Tampilan Kecil di Trending Shows</string>
+    <string name="animations">Animasi</string>
+    <string name="banner_animations">Animasi Spanduk</string>
+    <string name="layout_animations">Animasi Tata Letak</string>
     <string name="animation_speed">Overall Speed</string>
-    <string name="empty_fav">Looks like you don\'t like anything,\nTry liking a show to keep it here.</string>
-    <string name="fav_anime">Favourite Anime</string>
-    <string name="fav_manga">Favourite Manga</string>
-    <string name="restart_app">Restart the app?</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-    <string name="current_page">Current Page</string>
+    <string name="empty_fav">Sepertinya Anda tidak menyukai apa pun,\nCoba sukai acara agar tetap di sini.</string>
+    <string name="fav_anime">Anime Favorit</string>
+    <string name="fav_manga">Manga Favorit</string>
+    <string name="restart_app">Mulai ulang aplikasi?</string>
+    <string name="next">Selanjutnya</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="current_page">Halaman saat ini</string>
     <string name="dubbed">Dubbed</string>
     <string name="prefer_dub">Prefer Dubbed Anime</string>
-    <string name="none">None</string>
-    <string name="selected_dns">Selected DNS</string>
-    <string name="dns_info">Change if your ISP blocks any source</string>
-    <string name="keep_screen_on">Keep Screen On</string>
-    <string name="layout">Layout</string>
-    <string name="spaced_pages">Spaced Pages</string>
-    <string name="direction">Direction</string>
+    <string name="none">tidak ada</string>
+    <string name="selected_dns">DNS yang dipilih</string>
+    <string name="dns_info">Ubah jika ISP Anda memblokir sumber apa pun</string>
+    <string name="keep_screen_on">Biarkan layar tetap menyala</string>
+    <string name="layout">Tata letak</string>
+    <string name="spaced_pages">Halaman Berspasi</string>
+    <string name="direction">Arah</string>
 
-    <string name="general">General</string>
-    <string name="show_system_bars">Show Status &amp; Navigation Bars</string>
-    <string name="auto_detect_webtoon">Auto Detect Webtoon</string>
-    <string name="auto_detect_webtoon_info">If the Manga is not from Japan, the reader will default to Webtoon Reader Settings</string>
-    <string name="default_settings">Default Settings</string>
-    <string name="horizontal_scroll_bar">Horizontal Scroll Bar</string>
-    <string name="dual_page">Dual Page</string>
-    <string name="dual_page_info">Shows 2 Images in 1 page, will look weird if the images aren\'t the same size</string>
-    <string name="true_colors">True Colors</string>
-    <string name="true_colors_info">(32-bit color Mode) Reduces Banding on the images, may affect performance.</string>
-    <string name="image_rotation">Image Rotation</string>
-    <string name="hide_page_numbers">Hide Page Numbers</string>
-    <string name="sort_by_title">Sort by Title</string>
-    <string name="sort_by_last_updated">Sort by Last Updated</string>
-    <string name="sort_by_score">Sort by Score</string>
-    <string name="over_scroll">Over Scroll to Next/Previous Chapter</string>
-    <string name="volume_buttons">Change pages with Volume Buttons</string>
+    <string name="general">Umum</string>
+    <string name="show_system_bars">Tampilkan Status &amp; Bilah Navigasi</string>
+    <string name="auto_detect_webtoon">Deteksi otomatis Webtoon</string>
+    <string name="auto_detect_webtoon_info">Jika Manga tersebut bukan dari Jepang, pembaca akan menggunakan Pengaturan Pembaca Webtoon secara default</string>
+    <string name="default_settings">Pengaturan Default</string>
+    <string name="horizontal_scroll_bar">Bilah Gulir Horizontal</string>
+    <string name="dual_page">Halaman Ganda</string>
+    <string name="dual_page_info">Menampilkan 2 Gambar dalam 1 halaman, akan terlihat aneh jika ukuran gambar tidak sama</string>
+    <string name="true_colors">Warna Asli</string>
+    <string name="true_colors_info">(Mode warna 32-bit) Mengurangi Banding pada gambar, dapat mempengaruhi kinerja.</string>
+    <string name="image_rotation">Rotasi Gambar</string>
+    <string name="hide_page_numbers">Sembunyikan Nomor Halaman</string>
+    <string name="sort_by_title">Urutkan berdasarkan Judul</string>
+    <string name="sort_by_last_updated">Urutkan menurut Terakhir Diperbarui</string>
+    <string name="sort_by_score">Urutkan berdasarkan Skor</string>
+    <string name="over_scroll">Over Scroll ke Bab Berikutnya/Sebelumnya</string>
+    <string name="volume_buttons">Ubah halaman dengan Tombol Volume</string>
     <string name="list_private">Private</string>
-    <string name="wrap_images">Wrap Images</string>
-    <string name="wrap_images_info">Mostly useful for larger devices, removes space between images, if they exist.</string>
-    <string name="reload">Reload</string>
-    <string name="share">Share</string>
+    <string name="wrap_images">Wrap gambar</string>
+    <string name="wrap_images_info">Sebagian besar berguna untuk perangkat yang lebih besar, menghilangkan ruang di antara gambar, jika ada.</string>
+    <string name="reload">Mengulang</string>
+    <string name="share">Bagikan</string>
     <string name="skip">Skip</string>
-    <string name="show_skip_time_stamp_button">Show Skip Time Stamp Button</string>
-    <string name="always_load_time_stamps">Always Load Time Stamps</string>
-    <string name="timestamps">Time Stamps</string>
-    <string name="other">Other</string>
-    <string name="auto_skip_op_ed">Auto Skip OP / ED</string>
-    <string name="requires_time_stamps_to_be_enabled">Requires Time Stamps to be Enabled</string>
-    <string name="total_repeats">TOTAL REPEATS</string>
-    <string name="custom_lists">Custom Lists</string>
-    <string name="donate_desc">Want to support Saikou\'s Creator?\nConsider Donating</string>
-    <string name="donate_goal">(Let\'s reach to $1000!)</string>
-    <string name="filter">Filter</string>
-    <string name="year">Year</string>
-    <string name="apply">Apply</string>
-    <string name="cancel">Cancel</string>
-    <string name="this_season">This Season</string>
-    <string name="next_season">Next Season</string>
-    <string name="previous_season">Previous Season</string>
-    <string name="include_media_in_list">Include List</string>
-    <string name="release_calendar">Calendar</string>
-    <string name="planned_anime">Planned Anime</string>
-    <string name="planned_manga">Planned Manga</string>
-    <string name="image_long_clicking">Open image by Long Clicking</string>
-    <string name="always_continue_shows">Always continue Shows</string>
-    <string name="timestamp_proxy_desc">Useful if you are getting Handshake Fails</string>
-    <string name="timestamp_proxy">Use Proxy for Timestamps</string>
-    <string name="check_app_updates">Always check for App Updates</string>
+    <string name="show_skip_time_stamp_button">Tampilkan Tombol Stempel Waktu Skip</string>
+    <string name="always_load_time_stamps">Selalu Muat Stempel Waktu</string>
+    <string name="timestamps">Stempel Waktu</string>
+    <string name="other">Lainnya</string>
+    <string name="auto_skip_op_ed">Lewati Otomatis OP / ED</string>
+    <string name="requires_time_stamps_to_be_enabled">Memerlukan Stempel Waktu untuk Diaktifkan</string>
+    <string name="total_repeats">TOTAL PENGULANGAN</string>
+    <string name="custom_lists">Kustom Daftar</string>
+    <string name="donate_desc">Ingin mendukung Kreator Saikou?\nPertimbangkan untuk Berdonasi</string>
+    <string name="donate_goal">(Mari raih $1000!)</string>
+    <string name="filter">Saring</string>
+    <string name="year">Tahun</string>
+    <string name="apply">Menerapkan</string>
+    <string name="cancel">Batalkan</string>
+    <string name="this_season">Musim Ini</string>
+    <string name="next_season">Musim Selanjutnya</string>
+    <string name="previous_season">Musim Sebelumnya</string>
+    <string name="include_media_in_list">Sertakan Daftar</string>
+    <string name="release_calendar">Kalender</string>
+    <string name="planned_anime">Anime yang Direncanakan</string>
+    <string name="planned_manga">Manga yang Direncanakan</string>
+    <string name="image_long_clicking">Buka dengan Klik lama</string>
+    <string name="always_continue_shows">Selalu lanjutkan Shows</string>
+    <string name="timestamp_proxy_desc">Berguna jika Anda mendapatkan Handshake Fails</string>
+    <string name="timestamp_proxy">Gunakan Proksi untuk Stempel Waktu</string>
+    <string name="check_app_updates">Selalu periksa Pembaruan Aplikasi</string>
     <string name="author">Author</string>
     <string name="forks">Forks</string>
     <string name="faq">FAQ</string>
-    <string name="accounts">Accounts</string>
+    <string name="accounts">Akun</string>
     <string name="myanimelist">MyAnimeList</string>
-    <string name="login_with_anilist">Login with Anilist!</string>
+    <string name="login_with_anilist">Login menggunakan Anilist!</string>
     <string name="anilist">Anilist</string>
-    <string name="account_help">How does this work\?</string>
+    <string name="account_help">Bagaimana cara kerjanya\?</string>
     <string name="full_account_help">
-        Saikou is an Anilist Based App, so for syncing with your MAL Account, It needs an Anilist account to be logged in.
-        \nOnce logged in with both Anilist and MAL accounts, the app will automatically update your MAL account whenever:
-        \n- Add a new Media
-        \n- Edit a Media
-        \n- Delete a Media
+        Saikou adalah Aplikasi Berbasis Anilist, jadi untuk menyinkronkan dengan Akun MAL Anda, diperlukan akun Anilist untuk masuk.
+        \nSetelah masuk dengan akun Anilist dan MAL, aplikasi akan memperbarui akun MAL Anda secara otomatis setiap kali:
+        \n- Tambahkan Media baru
+        \n- Mengedit Media
+        \n- Menghapus Media
 
-        \n\nNote: The app will not sync old Media\'s from Anilist to MAL, It\'s recommended to sync them.
-        \n- Check __FAQs__ for _Easy Method_
+        \n\nCatatan: Aplikasi tidak akan menyinkronkan Media lama dari Anilist ke MAL, Disarankan untuk menyinkronkannya.
+        \n- Periksa __FAQs__ untuk _Metode Mudah_
 
-        \n\nAnd for _Intermediates_ :
-        \n- [How to sync Anilist data with MAL](https://anilist.co/forum/thread/2654)
-        \n- [How to sync MAL data with Anilist](https://anilist.co/forum/thread/3393)
+        \n\nDan untuk _Intermediates_ :
+        \n- [Cara menyinkronkan data Anilist dengan MAL](https://anilist.co/forum/thread/2654)
+        \n- [Cara menyinkronkan data MAL dengan Anilist](https://anilist.co/forum/thread/3393)
 
-        \n\n_It is not required to sync both MAL and Anilist accounts._
+        \n\n_Tidak perlu menyinkronkan akun MAL dan Anilist._
     </string>
-    <string name="notification_for_checking_subscriptions">Show notification for Checking Subscriptions</string>
-    <string name="checking_subscriptions">Notification for Checking Subscriptions</string>
-    <string name="subscriptions_checking_time_s">Subscriptions Update Frequency : %1$s</string>
-    <string name="subscriptions_checking_time">Subscriptions Update Frequency</string>
-    <string name="subscriptions_info">Amount of time for Saikou to periodically check for new Episodes/Chapters\n(Less time will cause more battery consumption)</string>
-    <string name="do_not_update">Don\'t Update</string>
-    <string name="loading_next_chap">Loading Next Chapter</string>
-    <string name="grid">Grid</string>
-    <string name="sort_by_release_date">Sort by Release Date</string>
-    <string name="crop_borders">Crop Borders</string>
+    <string name="notification_for_checking_subscriptions">Tampilkan pemberitahuan untuk Memeriksa Langganan</string>
+    <string name="checking_subscriptions">Pemberitahuan untuk Memeriksa Langganan</string>
+    <string name="subscriptions_checking_time_s">Frekuensi Pembaruan Langganan : %1$s</string>
+    <string name="subscriptions_checking_time">Frekuensi Pembaruan Langganan</string>
+    <string name="subscriptions_info">Jumlah waktu bagi Saikou untuk memeriksa Episode/Bab baru secara berkala\n(Lebih sedikit waktu akan menyebabkan lebih banyak konsumsi baterai)</string>
+    <string name="do_not_update">Jangan Perbarui</string>
+    <string name="loading_next_chap">Memuat Bab Berikutnya</string>
+    <string name="grid">Kotak</string>
+    <string name="sort_by_release_date">Urutkan berdasarkan Tanggal Rilis</string>
+    <string name="crop_borders">Potong batas</string>
 </resources>
