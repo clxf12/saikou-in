@@ -60,11 +60,11 @@
     <string name="notifications">Notifikasi</string>
     <string name="status">STATUS</string>
     <string-array name="status">
-        <item>RENCANA</item>
-        <item>SAAT INI</item>
-        <item>SELESAI</item>
-        <item>MENGULANG</item>
-        <item>DIJEDA</item>
+        <item>PLANNING</item>
+        <item>CURRENT</item>
+        <item>COMPLETED</item>
+        <item>REPEATING</item>
+        <item>PAUSED</item>
         <item>DROPPED</item>
     </string-array>
     <string name="progress">PROGRESS</string>
