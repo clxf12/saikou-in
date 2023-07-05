@@ -20,7 +20,7 @@ class OpLoverz : AnimeParser() {
 
     override val name = "OpLoverz"
     override val saveName = "oploverz"
-    override val hostUrl = "https://oploverz.top"
+    override val hostUrl = "https://oploverz.care"
     override val isDubAvailableSeparately = false
 
     override suspend fun loadEpisodes(animeLink: String, extra: Map<String, String>?): List<Episode> {
